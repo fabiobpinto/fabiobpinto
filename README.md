@@ -6,7 +6,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-- 🔭 I’m currently working on SBF Group
-- 🌱 I’m currently learning Linux, SRE and DevOps
-- 📫 How to reach me: fabiobritopinto@gmail.com / Telegram: @fabiobritopinto 
+- 🔭 I’m currently working on Avanade
+- 🌱 I’m currently learning Linux, Cloud Azure, SRE and DevOps
+- 📫 How to reach me: fabiobritopinto@gmail.com
 
