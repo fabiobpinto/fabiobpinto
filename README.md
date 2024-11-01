@@ -1,13 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-19a9ec?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fabiobritopinto/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:fabiobritopinto@gmail.com)
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/fabiobritopinto/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
-- 🌱 I’m currently learning Linux, Cloud Azure, SRE and DevOps
-- 📫 How to reach me: fabiobritopinto@gmail.com
+### I’m currently learning Linux, Cloud Azure, SRE and DevOps
+
 
 ## 📊 GitHub Stats:
 
