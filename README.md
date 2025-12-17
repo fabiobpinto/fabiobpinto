@@ -9,7 +9,7 @@
 ## 📊 GitHub Stats:
 
 <div>
-  <a href="https://github.com/Argao">
+  <a href="https://github.com/fabiobpinto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiobpinto&show_icons=true&theme=dark&hide=issues&hide_title=true" />
 
 
