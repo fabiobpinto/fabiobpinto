@@ -87,14 +87,6 @@ I specialize in designing, automating, and maintaining **secure, scalable, and p
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fabiobpinto&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabiobpinto&layout=compact&langs_count=8&hide_border=true)
-
----
-
 ## 📫 Contact
 - 📧 Email: **fabiobritopinto@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/fabiobritopinto/
