@@ -3,19 +3,19 @@
 </h1>
 
 <p align="center">
-Cloud & DevOps Engineer | Azure · OCI · GCP | Linux | Infrastructure as Code
+<strong>Fábio Brito Pinto — Cloud & DevOps Engineer</strong><br/>
+Azure · OCI · GCP | Linux | Infrastructure as Code
 </p>
 
 ---
 
 ## 👋 About Me
 
-I am a **Cloud & DevOps Engineer** with solid experience in **Linux**, **multicloud environments (Azure, Oracle Cloud Infrastructure, and Google Cloud Platform)**, and **Infrastructure as Code (IaC)**.
+I am a **Cloud & DevOps Engineer** with strong experience in **Linux** and **multicloud environments (Azure, Oracle Cloud Infrastructure, and Google Cloud Platform)**.
 
-I specialize in building, automating, and maintaining **secure, scalable, and production-ready infrastructure**, working with both cloud and hybrid environments.
-I bring a **remote-first mindset**, with strong focus on automation, documentation, and operational reliability.
+I specialize in designing, automating, and maintaining **secure, scalable, and production-ready infrastructure**, working with cloud and hybrid environments. I bring a **remote-first mindset**, focusing on automation, documentation, and operational excellence.
 
-📍 Based in Brazil
+📍 Based in Brazil  
 🌍 Open to **remote opportunities worldwide**
 
 ---
@@ -23,12 +23,12 @@ I bring a **remote-first mindset**, with strong focus on automation, documentati
 ## 🧠 Professional Profile
 
 - Hands-on experience with **Azure, OCI, and GCP**
-- Strong Linux background (on-premises and cloud)
+- Strong Linux background across cloud and on-premises environments
 - Infrastructure automation using **Terraform and Ansible**
 - Linux server administration, hardening, and vulnerability remediation
-- Design, implementation, and maintenance of **CI/CD pipelines**
 - Strong **Infrastructure as Code (IaC)** culture
 - Experience working with **distributed, international teams**
+- Support for **mission-critical production environments**
 
 ---
 
@@ -36,16 +36,22 @@ I bring a **remote-first mindset**, with strong focus on automation, documentati
 
 ### ☁️ Cloud Platforms
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🐧 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white)
+![Oracle Linux](https://img.shields.io/badge/Oracle_Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 
 ### ⚙️ DevOps & Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🐳 Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,46 +61,37 @@ I bring a **remote-first mindset**, with strong focus on automation, documentati
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications (Selected)
 
+- 🏅 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- 🏅 **HashiCorp Certified: Terraform Associate (003)**
 - 🏅 **LPIC-2 – Linux Professional Institute**
 - 🏅 **CompTIA Linux+**
-- 🏅 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 - 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - 🏅 **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 - 🏅 **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
-- 🏅 **HashiCorp Certified: Terraform Associate (003)**
 - 🏅 **Green Software for Practitioners – Linux Foundation**
 
 ---
 
-<!-- ## 📂 Featured Projects
-
-> Projects focused on **production-ready infrastructure, automation, and DevOps best practices**
-
-🔹 **Multicloud Infrastructure with Terraform**
-Provisioning and management of Azure, OCI, and GCP resources using Terraform, following modular and secure patterns.
-
-🔹 **Linux Automation with Ansible**
-Server provisioning, configuration management, hardening, and operational automation.
-
-🔹 **CI/CD Pipelines**
-Infrastructure and application delivery pipelines using GitHub Actions.
-
-*(See pinned repositories on my profile 👇)* -->
-
-<!-- --- -->
-
 ## 🌐 Remote Work Readiness
 
 - Comfortable working across multiple time zones
-- Strong written communication skills
+- Strong written and asynchronous communication
 - Documentation-driven workflows
 - Automation-first mindset
-- Experience supporting **mission-critical production environments**
+- Experience supporting critical production systems
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fabiobpinto&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabiobpinto&layout=compact&langs_count=8&hide_border=true)
 
 ---
 
 ## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Brito_Pinto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobritopinto/)
+- 📧 Email: **fabiobritopinto@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/fabiobritopinto/
