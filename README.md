@@ -51,13 +51,16 @@ I specialize in designing, automating, and maintaining **secure, scalable, and p
 ### ⚙️ DevOps & Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🐳 Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🌐 Networking & Infrastructure Services
 ![Networking](https://img.shields.io/badge/Networking-2C2C2C?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
 
 ---
 
