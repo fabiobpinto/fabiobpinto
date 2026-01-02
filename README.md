@@ -95,15 +95,6 @@ Infrastructure and application delivery pipelines using GitHub Actions.
 
 ---
 
-## 📈 GitHub Activity
-
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fabiobpinto&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabiobpinto&layout=compact&langs_count=8&theme=default&hide_border=true)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Brito_Pinto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobritopinto/)
