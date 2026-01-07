@@ -51,11 +51,6 @@ I specialize in designing, automating, and maintaining **secure, scalable, and p
 ### ⚙️ DevOps & Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
-
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=terraform" />  | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  |
-| <img src="https://skillicons.dev/icons?i=ansible" />  | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  |
 
 ### 🐳 Containers
 ![Docker](https://skillicons.dev/icons?i=docker)
