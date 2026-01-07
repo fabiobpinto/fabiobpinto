@@ -63,6 +63,12 @@ I specialize in designing, automating, and maintaining **secure, scalable, and p
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
 
 ---
+## ⭐ GitHub Stars
+<p align="left">
+  <img src="https://img.shields.io/github/stars/fabiobpinto?label=Stars&logo=github&color=FFD700&style=for-the-badge" alt="GitHub Stars"/>
+</p>
+
+---
 
 ## 🎓 Certifications (Selected)
 
