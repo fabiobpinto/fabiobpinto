@@ -53,7 +53,7 @@ I specialize in designing, automating, and maintaining **secure, scalable, and p
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 🐳 Containers
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 ### 🌐 Networking & Infrastructure Services
 ![Networking](https://img.shields.io/badge/Networking-2C2C2C?style=for-the-badge&logo=cloudflare&logoColor=white)
